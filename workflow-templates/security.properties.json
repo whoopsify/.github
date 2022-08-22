@@ -1,0 +1,8 @@
+{
+    "name": "Whoopsify Organization Workflow",
+    "description": "Whoopsify Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Security"
+    ]
+}
